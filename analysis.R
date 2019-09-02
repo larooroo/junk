@@ -4,3 +4,9 @@ plot(x,y)
 summary(x)
 mean(x)
 
+#hello there! Can you read this?
+
+library(ggplot2)
+
+sd(x)
+sd(y)
