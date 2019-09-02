@@ -10,3 +10,7 @@ library(ggplot2)
 
 sd(x)
 sd(y)
+
+summary(y)
+mean(y)
+
